@@ -3,21 +3,21 @@
 html, body { height: 100%; overflow: hidden;}
 
 a:link {
-  color: #03adfc;
+  color: #c8c2bd;
 }
 
 
 a:visited {
-  color: #03adfc;
+  color: #c8c2bd;
 }
 
 
 a:hover {
-  color: #148ec7;
+  color: #c8c2bd;
 }
 
 a:active {
-  color: #03adfc;
+  color: #c8c2bd;
 }
 
 body {
